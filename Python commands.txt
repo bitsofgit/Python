@@ -1,0 +1,8 @@
+Python Commands
+
+python --version
+to find version
+
+python -c "import.sys; print(sys.executable)"
+to find where python is installed
+
