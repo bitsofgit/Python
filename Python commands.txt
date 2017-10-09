@@ -6,3 +6,12 @@ to find version
 python -c "import.sys; print(sys.executable)"
 to find where python is installed
 
+pip install Flask
+pip is python's package manager
+flask is a web application framework
+
+pip install pyinstaller
+package to create exe for python code
+
+pyinstaller --onefile <filename>
+creates exe file. exe is created in dist folder.
