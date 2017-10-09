@@ -1,0 +1,3 @@
+# Python
+
+Quick and dirty notes for using python...
