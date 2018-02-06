@@ -13,5 +13,8 @@ flask is a web application framework
 pip install pyinstaller
 package to create exe for python code
 
+pip install --trusted-host pypi.python.org numpy
+install numpy by trusting the host and not checking cert
+
 pyinstaller --onefile <filename>
 creates exe file. exe is created in dist folder.
